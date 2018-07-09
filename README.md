@@ -1,2 +1,2 @@
-# exampleProject
-Example project
+# ExampleProject
+Does example project things
